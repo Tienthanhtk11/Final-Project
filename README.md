@@ -1,2 +1,1 @@
-# Final-Project
-Final project for University
+# odoo-project
